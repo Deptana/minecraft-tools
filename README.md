@@ -39,6 +39,10 @@ The analyzer reads the report in your browser. It shows measurements that the fi
 
 Do not confuse a performance ZIP with a crash log. Use the crash-log analyzer for a file from `crash-reports` or `logs/latest.log`. An exit code on its own rarely identifies the cause.
 
+## Turn a picture into a block plan (Russian interface)
+
+The [pixel-art tool](https://deptana.ru/ru/minecraft-pixel-art-generator?utm_source=github&utm_medium=referral&utm_campaign=pixel_guide) converts PNG, JPEG or WebP into a plan up to 128×128 blocks. Download a numbered PNG blueprint and a materials list. The new editor currently has a Russian interface; it does not produce in-game map files. Images are processed in your browser.
+
 ## Report a problem
 
 [Open an issue](https://github.com/Deptana/minecraft-tools/issues/new) in Russian or English. Include the tool URL, game edition and exact version, browser, steps to reproduce, expected result and actual result. For a command problem, include the generated command and the game's exact error message.
